@@ -1,0 +1,3 @@
+[submodule "PCB/qw-footprints"]
+	path = PCB/qw-footprints
+	url = https://github.com/Armastardo/qw-footprints
