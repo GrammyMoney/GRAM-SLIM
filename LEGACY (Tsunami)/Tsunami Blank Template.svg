@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1044.5 504.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="203.48" y="56.93" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="203.48" y="131.81" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="298.53" y="355.5" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="362.84" y="400.2" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="644.73" y="400.2" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="644.73" y="312.14" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="709.04" y="355.5" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="709.18" y="267.1" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="728.93" y="164.09" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="504.65" y="165.15" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="728.93" y="85.83" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="804.1" y="130.09" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="804.51" y="51.83" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="884.48" y="138.51" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="884.48" y="60.56" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="958.81" y="105.72" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="958.81" y="183.98" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="773.27" y="311.81" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="278.8" y="165.15" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="123.1" y="139.54" width="39.12" height="39.12"/>
+  <rect class="cls-2" x="51.44" y="185.75" width="39.12" height="39.12"/>
+  <g id="CIRCLE">
+    <circle class="cls-1" cx="28.49" cy="28.69" r="11.34"/>
+  </g>
+  <g id="CIRCLE-2" data-name="CIRCLE">
+    <circle class="cls-1" cx="28.49" cy="476.2" r="11.34"/>
+  </g>
+  <g id="CIRCLE-3" data-name="CIRCLE">
+    <circle class="cls-1" cx="1016.01" cy="28.69" r="11.34"/>
+  </g>
+  <g id="CIRCLE-4" data-name="CIRCLE">
+    <circle class="cls-1" cx="1016.01" cy="476.2" r="11.34"/>
+  </g>
+  <g id="CIRCLE-5" data-name="CIRCLE">
+    <circle class="cls-1" cx="883.67" cy="401.26" r="11.34"/>
+  </g>
+  <g id="CIRCLE-6" data-name="CIRCLE">
+    <circle class="cls-1" cx="622.88" cy="154.65" r="11.34"/>
+  </g>
+  <g id="CIRCLE-7" data-name="CIRCLE">
+    <circle class="cls-1" cx="486.82" cy="406.93" r="11.34"/>
+  </g>
+  <g id="CIRCLE-8" data-name="CIRCLE">
+    <circle class="cls-1" cx="61.62" cy="358.74" r="11.34"/>
+  </g>
+  <g id="CIRCLE-9" data-name="CIRCLE">
+    <circle class="cls-1" cx="285.56" cy="92.29" r="11.34"/>
+  </g>
+  <g id="LINE">
+    <line class="cls-1" x1="454.2" y1=".44" x2="454.2" y2=".44"/>
+  </g>
+  <g id="LINE-2" data-name="LINE">
+    <line class="cls-1" x1="386.17" y1=".44" x2="386.17" y2=".44"/>
+  </g>
+  <g id="LINE-3" data-name="LINE">
+    <line class="cls-1" x1="451.21" y1=".44" x2="451.21" y2=".44"/>
+  </g>
+  <g id="LWPOLYLINE">
+    <rect class="cls-1" x=".25" y=".25" width="1044" height="504"/>
+  </g>
+</svg>
