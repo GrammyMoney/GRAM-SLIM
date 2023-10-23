@@ -27,6 +27,31 @@ There are several people who made this project possible, either directly or indi
 # Ordering & Customization Guide
 While most of these files are universal and can be used at any fab house, **JLCPCB** has become the de-facto standard for DIY box manufacturing. This is due to their hyper-affordable pricing and low minimum order quantity.
 
+Bill of Materials
+-
+Per GRAM Slim, you will need (some files can be made using this repository, but I will link to places to purchase them if you would like to avoid MOQs)
+- 1 x [GRAM Slim PCB](https://gramctrl.com/products/gram-slim-pcb)
+- 1 x set of [Top/Bottom panels](https://gramctrl.com/products/gram-slim-aluminum-panels)
+- 21 x [Kailh Choc V1 switches](https://www.moergo.com/products/kailh-choc-v1-key-switches-red-brown-white-pro-red-20-pack?variant=45328736780561) (Red, Red Pro, and Whites are all great choices)
+- 21 x [PG1350 Hotswap Sockets](https://mkultra.click/kailh-hotswap-sockets)
+- 21 x [GRAM 24mm Choc Keycap Buttons](https://gramctrl.com/products/gram-24mm-choc-v1-keycap-buttons)
+- 1 x GRAM Slim Frame
+- 7 x [M5x0.8 8mm Low-Profile Socket Head Screws](https://www.mcmaster.com/92855A507)
+- 7 x [M5x0.8 Round-Base Weld Nuts](https://www.mcmaster.com/90563A680)
+
+*Optional*
+- USB-C to GCC cable for console/adapter play
+
+Tools Needed
+-
+This guide assumes a level of knowledge on soldering and computer literacy. General tool requirements are:
+- Soldering iron
+- Solder
+- USB-C to USB-A cable
+- 3mm hex key/allen wrench
+- Pliers
+- Patience :)
+
 The PCB
 -
 The PCB Fabrication files should come in the form of a *Gerber ZIP file* and *bom/cpl files* (usually in Excel spreadsheet formats).
@@ -74,7 +99,7 @@ Here you can add the **GRAM Slim Bottom** Zip file, and it will copy all your se
 
 The Frame
 -
-The frame file is pretty self explanatory. Just go into JLC's 3D printing section, drop the STL file in, and choose your material. I recommend black Resin, but LEDO 6060 is a great, low cost alternative. The only material I recommend against is the textured Nylon options, as the tolerances between the frame and panels are extremely tight, and the texture could interfere with that.
+The frame file is pretty self explanatory. Just go into JLC's 3D printing section, drop the STL file in, and choose your material. I recommend black Resin, but LEDO 6060 is a great, low cost alternative. The only material I recommend against is the textured Nylon options, as the tolerances between the frame and panels are extremely tight, and the texture could interfere with that. make sure the surface finish is set to *sanded*.
 
 
 ![image](https://github.com/GrammyMoney/GRAM-SLIM/assets/126632196/7fee3cdb-1453-4f1a-8c41-a377b9aa191a)
@@ -82,9 +107,11 @@ The frame file is pretty self explanatory. Just go into JLC's 3D printing sectio
 
 The Buttons
 -
+In the files, there are two versions. A single button for reference, and a 10x .STL file for mass printing at JLC. Each GRAM Slim requires 2.1 prints, so to make the minimum order quantity of 5 PCBs, you will need to order 11 prints of it.
+
 The 10x file is the ideal for JLC, as it minimizes cost. JLC may reach out to you and add some cost (0.30/pc) for small parts. This is normal.
 
-The buttons have been tested in the same three materials:
+The buttons have been tested in 4 material materials:
 - **LEDO 6060** (natural white, most cost-effective option, goes well with matching frame and black aluminum panels)
 - **Black Resin** (matte grayish-black, goes well with both black and white panels)
 - **PA12-HP Nylon** (Only slightly more expensive for buttons, but gives an amazing textured finish, very premium feel)
