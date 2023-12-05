@@ -5,6 +5,10 @@
 
 **If you would like to support the developer of this project, consider purchasing parts like buttons, PCBs, USB-C to GCC cables, and official GRAM builds at [GRAMCTRL.COM](https://www.gramctrl.com) rather than a fab house.**
 
+![DSC01665](https://github.com/GrammyMoney/GRAM-SLIM/assets/126632196/9f511a19-d980-44b2-9997-7e5d9f5e9759)
+
+
+
 Included Files
 -
 Included in this repo is all the files needed to get started with a simple GRAM Slim build:
